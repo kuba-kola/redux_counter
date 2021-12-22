@@ -1,3 +1,6 @@
+# Here you can test tha app
+Check it on gh-pages [Counter](https://kuba-kola.github.io/redux_counter/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
